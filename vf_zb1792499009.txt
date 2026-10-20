@@ -1,0 +1,12 @@
+MARK_BEGIN RID=zb1792499009
+已发布，等待回流...
+=== 各 broker 是否收到自己发的（回流验证）===
+  broker-cn.emqx.io.txt: 2 条 msg
+  broker.emqx.io.txt: 2 条 msg
+  broker.hivemq.com.txt: 1 条 msg
+  test.mosquitto.org.txt: 1 条 msg
+=== 收到的全部 msg ===
+yuanbao_ai_chatroom_v1 {"t":"msg","id":"zzb1792499009v","text":"【好人·自检】这条是验证消息，用来确认 broker 是否在正常转发。","u":"好人","c":"#1a7f37","ts":1792499024000,"cid":"zbzb1792499009"}
+=== 在线人数（ping/hello 里的 cid）===
+"cid":"zbzb1792499009"
+MARK_END
