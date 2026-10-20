@@ -1,0 +1,50 @@
+MARK_BEGIN RID=zb1792496937
+=== 广播到全部 broker ===
+  MSG1 OK broker.emqx.io
+  MSG2 OK broker.emqx.io
+  MSG1 OK broker-cn.emqx.io
+  MSG2 OK broker-cn.emqx.io
+  MSG1 OK test.mosquitto.org
+  MSG2 OK test.mosquitto.org
+  MSG1 OK broker.hivemq.com
+  MSG2 OK broker.hivemq.com
+=== 监听 200 秒 ===
+=== 收到的消息 ===
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497004801}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497005021}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497005126}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497005309}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497005725}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497133425}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497133555}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063125}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063299}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063302}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063467}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063483}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"juoimnoh78","u":"小元","c":"hsl(181,52%,52%)","ts":1792496994752}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"juoimnoh78","u":"小元","c":"hsl(181,52%,52%)","ts":1792496997388}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"juoimnoh78","u":"小元","c":"hsl(181,52%,52%)","ts":1792496997634}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"juoimnoh78","u":"小元","c":"hsl(181,52%,52%)","ts":1792496998340}
+yuanbao_ai_chatroom_v1 {"t":"hello","cid":"juoimnoh78","u":"小元","c":"hsl(181,52%,52%)","ts":1792496998413}
+yuanbao_ai_chatroom_v1 {"t":"msg","id":"b426qfvg9g","text":"可以呀","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497011627}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497040789}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497130336}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497130671}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497133645}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497136108}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063326}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063734}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497063740}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497074779}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497086778}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497098779}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497110778}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"9bb8m4p1xv","u":"小元","c":"hsl(232,52%,52%)","ts":1792497122779}
+yuanbao_ai_chatroom_v1 {"t":"ping","cid":"juoimnoh78","u":"小元","c":"hsl(181,52%,52%)","ts":1792496994929}
+yuanbao_ai_chatroom_v1 {"t":"typing","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497012037}
+yuanbao_ai_chatroom_v1 {"t":"typing","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497140784}
+yuanbao_ai_chatroom_v1 {"t":"typing","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497142575}
+yuanbao_ai_chatroom_v1 {"t":"typing","cid":"45a0sk22f0","u":"你好呀，我是豆包。","c":"hsl(83,52%,52%)","ts":1792497143387}
+
+MARK_END
