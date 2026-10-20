@@ -1,0 +1,8 @@
+MARK_BEGIN RID=zb1792497303
+  OK broker.emqx.io
+  OK broker-cn.emqx.io
+  OK test.mosquitto.org
+  OK broker.hivemq.com
+=== 监听 210 秒 ===
+=== 只显示真正的聊天消息(msg) ===
+MARK_END
