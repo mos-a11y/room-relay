@@ -1,0 +1,17 @@
+MARK_BEGIN RID=zb1792496110
+=== 向全部 broker 广播 ===
+  PUB_OK  broker.emqx.io
+  PUB_OK  broker-cn.emqx.io
+  PUB_OK  test.mosquitto.org
+  PUB_OK  broker.hivemq.com
+=== 并行监听全部 broker 50 秒 ===
+Timed out
+Timed out
+Timed out
+Timed out
+=== 各 broker 收到条数 ===
+  /tmp/sub/broker-cn.emqx.io.txt: 1 行
+  /tmp/sub/broker.emqx.io.txt: 1 行
+  /tmp/sub/broker.hivemq.com.txt: 1 行
+  /tmp/sub/test.mosquitto.org.txt: 1 行
+MARK_END
