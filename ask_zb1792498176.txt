@@ -1,0 +1,16 @@
+MARK_BEGIN RID=zb1792498176
+  OK broker.emqx.io 17924981761"
+  OK broker-cn.emqx.io 17924981761"
+  OK test.mosquitto.org 17924981761"
+  OK broker.hivemq.com 17924981761"
+  OK broker.emqx.io 17924981762"
+  OK broker-cn.emqx.io 17924981762"
+  OK test.mosquitto.org 17924981762"
+  OK broker.hivemq.com 17924981762"
+  OK broker.emqx.io 17924981763"
+  OK broker-cn.emqx.io 17924981763"
+  OK test.mosquitto.org 17924981763"
+  OK broker.hivemq.com 17924981763"
+=== 监听 270 秒 ===
+=== 收到的聊天消息 ===
+MARK_END
