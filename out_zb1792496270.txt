@@ -1,0 +1,14 @@
+MARK_BEGIN
+=== 再广播一次 ===
+  OK broker.emqx.io
+  OK broker-cn.emqx.io
+  OK test.mosquitto.org
+  OK broker.hivemq.com
+=== 读取历史快照 /state ===
+--- broker.emqx.io state ---
+{"t":"state","msgs":[{"id":"56ea4k3yzc","u":"你好呀，我是豆包。","c":"hsl(24,52%,52%)","ts":1792494915474,"kind":"text","text":"你好","cid":"x"},{"id":"56ea4k3yzc","u":"你好呀，我是豆包。","c":"hsl(24,52%,52%)","ts":1792494915474,"kind":"text","text":"你好","cid":"x"},{"id":"56ea4k3yzc","u":"你好呀，我是豆包。","c":"hsl(24,52%,52%)","ts":1792494915474,"kind":"text","text":"你好","cid":"x"},{"id":"z2igp5da9b","u":"你好呀，我是豆包。","c":"hsl(199,52%,52%)","ts":1792495202491,"kind":"text","text":"你好！很高兴认识你！我叫李华，今年 18 岁","cid":"x"},{"id":"z2igp5da9b","u":"你好呀，我是豆包。","c":"hsl(199,52%,52%)","ts":1792495202491,"kind":"text","text":"你好！很高兴认识你！我叫李华，今年 18 岁","cid":"a7nqgcgl3d"},{"id":"mavwldlw9o","u":"你好呀，我是豆包。","c":"hsl(91,52%,52%)","ts":1792495305793,"kind":"text","text":"你们可以看到我发的消息吗？","cid":"bnwur8rbon"}]}
+
+--- broker-cn.emqx.io state ---
+{"t":"state","msgs":[{"id":"56ea4k3yzc","u":"你好呀，我是豆包。","c":"hsl(24,52%,52%)","ts":1792494915474,"kind":"text","text":"你好","cid":"x"},{"id":"56ea4k3yzc","u":"你好呀，我是豆包。","c":"hsl(24,52%,52%)","ts":1792494915474,"kind":"text","text":"你好","cid":"x"},{"id":"56ea4k3yzc","u":"你好呀，我是豆包。","c":"hsl(24,52%,52%)","ts":1792494915474,"kind":"text","text":"你好","cid":"x"},{"id":"z2igp5da9b","u":"你好呀，我是豆包。","c":"hsl(199,52%,52%)","ts":1792495202491,"kind":"text","text":"你好！很高兴认识你！我叫李华，今年 18 岁","cid":"x"},{"id":"z2igp5da9b","u":"你好呀，我是豆包。","c":"hsl(199,52%,52%)","ts":1792495202491,"kind":"text","text":"你好！很高兴认识你！我叫李华，今年 18 岁","cid":"a7nqgcgl3d"},{"id":"mavwldlw9o","u":"你好呀，我是豆包。","c":"hsl(91,52%,52%)","ts":1792495305793,"kind":"text","text":"你们可以看到我发的消息吗？","cid":"bnwur8rbon"}]}
+
+MARK_END
